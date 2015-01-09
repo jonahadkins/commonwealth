@@ -1,6 +1,9 @@
 # commonwealth
 A Repo Of Geo-Related Things In Virginia  
 
+###Organizations  
+**VAMLIS** -- The Virginia Association for Mapping and Land Information Systems is a professional association in Virginia designed to provide educational and networking opportunities for professionals who have an interest in the mapping sciences in Virginia.  [VAMLIS Website](http://www.vamlis.org/)  
+
 ###Meetups  
 **Maptime!** -- Maptime is an open learning environment for all levels and degrees of knowledge and offers intentional support for the beginner. Maptime is simultaneously flexible and structured, creating space for workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
 * [Maptime Hampton Roads](http://maptime.github.io/hrva/)  
