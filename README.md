@@ -23,7 +23,7 @@ Have info on other orgs? Fork this repo or contact me jonahadkins@gmail.com
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 
 ##Open Source Repositories  
-** Coming Soon  
+**[Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)**  
 
 ##Local Organizations  
 ** Coming Soon  
