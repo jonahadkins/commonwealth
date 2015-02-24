@@ -1,6 +1,5 @@
 # commonwealth
-A Repo Of Geo-Related Things In Virginia  
-Have info on other orgs? Fork this repo or contact me jonahadkins@gmail.com  
+A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo or contact me jonahadkins@gmail.com  
 
 ##University Repositories  
 **[Virginia Lidar](http://virginialidar.com/)** -- Provided by William & Mary Center for Geospatial Analysis  
