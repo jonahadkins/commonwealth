@@ -26,6 +26,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
 **[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**  
 **[Chesapeake](http://public.chesva.opendata.arcgis.com/)**  
+**[Fairfax County](http://www.fairfaxcounty.gov/maps/data.htm)**  
 **[James City County](http://www.jamescitycountyva.gov/assessments/gis-mapping-layers.html)**  
 **[Lynchburg](http://data.cityoflynchburg.opendata.arcgis.com/)**   
 **[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
@@ -39,8 +40,9 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VAMLIS](http://www.vamlis.org/)** -- The Virginia Association for Mapping and Land Information Systems is a professional association in Virginia designed to provide educational and networking opportunities for professionals who have an interest in the mapping sciences in Virginia.    
 
 ##Meetups  
-**Maptime!** -- Maptime is an open learning environment for all levels and degrees of knowledge and offers intentional support for the beginner. Maptime is simultaneously flexible and structured, creating space for workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome! MaptimeHRVA meets monthly.
-* [Maptime Hampton Roads](http://maptime.github.io/hrva/)  
+**Maptime!** -- Maptime is an open learning environment for all levels and degrees of knowledge and offers intentional support for the beginner. Maptime is simultaneously flexible and structured, creating space for workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
+* [Maptime Hampton Roads](http://maptime.github.io/hrva/)  (meets monthly)
+* [Maptime DC](http://maptime.io/dc)  (serving Northern VA, meets monthly)
 
 **HRUG** -- The Hampton Roads GIS User Group meets quarterly to discuss area GIS news. User presentations are welcomed as well.  
 
