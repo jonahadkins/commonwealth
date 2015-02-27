@@ -9,7 +9,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[UVA Geoportal](http://gis.lib.virginia.edu/)** -- UVA Scholar's Lab Geodata Collection  
 
 
-##State Governemnt Repositories  
+##State Government Repositories  
 **[CPB](http://www.chesapeakebay.net/data#downloads)** -- Chesapeake Bay Program  
 **[VDCR](http://www.dcr.virginia.gov/natural_heritage/clinfo.shtml#dev)** -- Virginia Department of Conservation and Recreation's  
 **[VDEM](http://www.vaemergency.gov/em-community/em-resources/gis)** -- Virginia Department of Emergency Management  
@@ -36,7 +36,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 * [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
 ##Professional Organizations  
-**VAMLIS** -- The Virginia Association for Mapping and Land Information Systems is a professional association in Virginia designed to provide educational and networking opportunities for professionals who have an interest in the mapping sciences in Virginia.  [VAMLIS Website](http://www.vamlis.org/)  
+**[VAMLIS](http://www.vamlis.org/)** -- The Virginia Association for Mapping and Land Information Systems is a professional association in Virginia designed to provide educational and networking opportunities for professionals who have an interest in the mapping sciences in Virginia.    
 
 ##Meetups  
 **Maptime!** -- Maptime is an open learning environment for all levels and degrees of knowledge and offers intentional support for the beginner. Maptime is simultaneously flexible and structured, creating space for workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome! MaptimeHRVA meets monthly.
