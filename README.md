@@ -23,8 +23,12 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 
 ##Local Government Repositories  
+**[Albemarle County](http://www.albemarle.org/department.asp?department=gds&relpage=2910)**  
 **[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
 **[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**  
+**[Bedford County](http://bedfordco.dreamhosters.com/SHPFiles/)**  
+**[Blacksburg](http://www.gis.lib.vt.edu/gis_data/Blacksburg/GISPage.html)**
+**[Charlottesville](http://www.charlottesville.org/Index.aspx?page=1674)**  
 **[Chesapeake](http://public.chesva.opendata.arcgis.com/)**  
 **[Fairfax County](http://www.fairfaxcounty.gov/maps/data.htm)**  
 **[James City County](http://www.jamescitycountyva.gov/assessments/gis-mapping-layers.html)**  
