@@ -9,7 +9,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[UVA Geoportal](http://gis.lib.virginia.edu/)** -- UVA Scholar's Lab Geodata Collection  
 
 
-##State Repositories  
+##State Governemnt Repositories  
 **[CPB](http://www.chesapeakebay.net/data#downloads)** -- Chesapeake Bay Program  
 **[VDCR](http://www.dcr.virginia.gov/natural_heritage/clinfo.shtml#dev)** -- Virginia Department of Conservation and Recreation's  
 **[VDEM](http://www.vaemergency.gov/em-community/em-resources/gis)** -- Virginia Department of Emergency Management  
@@ -21,11 +21,15 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VGIN](http://vgin.maps.arcgis.com/home/)** -- Virginia Geographic Information Network  
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 
-##Open Source Repositories  
-* [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
+##Local Government Repositories  
+*[Alexandria]( http://data.alexgis.opendata.arcgis.com/)
+* [Chesapeake](http://public.chesva.opendata.arcgis.com/)  
+* [Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)  
+* [Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)  
 
-##Local Organizations  
-** Coming Soon  
+##Other Repositories  
+* [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
+* [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
 ##Professional Organizations  
 **VAMLIS** -- The Virginia Association for Mapping and Land Information Systems is a professional association in Virginia designed to provide educational and networking opportunities for professionals who have an interest in the mapping sciences in Virginia.  [VAMLIS Website](http://www.vamlis.org/)  
