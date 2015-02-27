@@ -26,6 +26,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
 **[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**  
 **[Chesapeake](http://public.chesva.opendata.arcgis.com/)**  
+**[James City County](http://www.jamescitycountyva.gov/assessments/gis-mapping-layers.html)**  
 **[Lynchburg](http://data.cityoflynchburg.opendata.arcgis.com/)**   
 **[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
 **[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
