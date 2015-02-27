@@ -19,15 +19,16 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VDOT](http://gis.virginiadot.org/)** -- Virginia Dept. of Transportation  
 **[VEDP](http://gis.yesvirginia.org/)** -- Virginia Economic Development Partnership  
 **[VGIN](http://vgin.maps.arcgis.com/home/)** -- Virginia Geographic Information Network  
+**[VGIN 2](http://opendata.arcgis.com/datasets?q=VGIN&sort_by=relevance)** -- Virginia Geographic Information Network  
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 
 ##Local Government Repositories  
 **[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
-**[Chesapeake](http://public.chesva.opendata.arcgis.com/)**    
+**[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**  
+**[Chesapeake](http://public.chesva.opendata.arcgis.com/)**  
+**[Lynchburg](http://data.cityoflynchburg.opendata.arcgis.com/)**   
 **[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
 **[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
-**[Lynchburg](http://data.cityoflynchburg.opendata.arcgis.com/)** 
-**[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**
 
 ##Other Repositories  
 * [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
