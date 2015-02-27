@@ -26,6 +26,8 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[Chesapeake](http://public.chesva.opendata.arcgis.com/)**    
 **[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
 **[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
+**[Lynchburg](http://data.cityoflynchburg.opendata.arcgis.com/)** 
+**[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**
 
 ##Other Repositories  
 * [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
