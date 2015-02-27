@@ -22,10 +22,10 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 
 ##Local Government Repositories  
-*[Alexandria]( http://data.alexgis.opendata.arcgis.com/)
-* [Chesapeake](http://public.chesva.opendata.arcgis.com/)  
-* [Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)  
-* [Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)  
+**[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
+**[Chesapeake](http://public.chesva.opendata.arcgis.com/)**    
+**[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
+**[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
 
 ##Other Repositories  
 * [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
