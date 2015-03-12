@@ -58,3 +58,4 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 
 **Others**  
 * [GeoNOVA](http://www.meetup.com/Geo-NoVA/)
+* [Loudon County GIS Forum](http://www.locogisforum.org/#/info/)
