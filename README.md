@@ -4,9 +4,9 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 ##OpenSteetMap iD Editor Cheat Codes  
 Copy these links into the `Custom Background` feature for maximum power  
 
-**[VGIN Parcels](http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Parcels/MapServer/arcgis/z/{z}/y/{y}/x/{x})**  
-**[VGIN Imagery](http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer/arcgis/z/{z}/y/{y}/x/{x})**  
-**[VGIN Buildings](http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/arcgis/z/{z}/y/{y}/x/{x})** 
+**VGIN Parcels - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Parcels/MapServer/arcgis/z/{z}/y/{y}/x/{x}**  
+**VGIN Imagery - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer/arcgis/z/{z}/y/{y}/x/{x}**  
+**VGIN Buildings - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/arcgis/z/{z}/y/{y}/x/{x}** 
 
 ##University Repositories  
 **[Virginia Lidar](http://virginialidar.com/)** -- Provided by William & Mary Center for Geospatial Analysis  
