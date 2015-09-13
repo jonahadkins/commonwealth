@@ -5,6 +5,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 Copy these links into the `Custom Background` feature for maximum power  
 
 **VGIN Parcels - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Parcels/MapServer/arcgis/z/{z}/y/{y}/x/{x}**  
+**VGIN Parcels Backup - http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgismaps.vita.virginia.gov%2Farcgis%2Frest%2Fservices%2FVA_Base_layers%2FVA_Parcels%2FMapServer&transparent=true&layers=show%3A20**  
 **VGIN Imagery - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer/arcgis/z/{z}/y/{y}/x/{x}**  
 **VGIN Buildings - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/arcgis/z/{z}/y/{y}/x/{x}** 
 
