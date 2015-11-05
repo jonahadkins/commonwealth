@@ -1,14 +1,5 @@
 # commonwealth
 A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo or contact me jonahadkins@gmail.com  
-
-##OpenSteetMap iD Editor Cheat Codes  
-Copy these links into the `Custom Background` feature for maximum power  
-
-**VGIN Parcels - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Parcels/MapServer/arcgis/z/{z}/y/{y}/x/{x}**  
-**VGIN Parcels Backup - http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgismaps.vita.virginia.gov%2Farcgis%2Frest%2Fservices%2FVA_Base_layers%2FVA_Parcels%2FMapServer&transparent=true&layers=show%3A20**  
-**VGIN Imagery - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/MostRecentImagery/MostRecentImagery_WGS/MapServer/arcgis/z/{z}/y/{y}/x/{x}**  
-**VGIN Buildings - http://arcgis-level-fixer.elasticbeanstalk.com/http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/arcgis/z/{z}/y/{y}/x/{x}** 
-
 ##University Repositories  
 **[Virginia Lidar](http://virginialidar.com/)** -- Provided by William & Mary Center for Geospatial Analysis  
 **[USGS Topo Quads](http://www.radford.edu/content/csat/home/gis-center/drg.html)** -- Provided by Radford University GIS Center  
@@ -29,6 +20,7 @@ Copy these links into the `Custom Background` feature for maximum power
 **[VGIN](http://vgin.maps.arcgis.com/home/)** -- Virginia Geographic Information Network  
 **[VGIN 2](http://opendata.arcgis.com/datasets?q=VGIN&sort_by=relevance)** -- Virginia Geographic Information Network  
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
+**[GARDEN](http://garden.vgingis.com)** -- University hosted State map services  
 
 ##Local Government Repositories  
 **[Albemarle County](http://www.albemarle.org/department.asp?department=gds&relpage=2910)**  
