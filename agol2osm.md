@@ -5,4 +5,4 @@ in the iD editor use these links as custom backgrounds for tracing boundaries/fe
 -- http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fdswcapps.dcr.virginia.gov%2Farcgis%2Frest%2Fservices%2Fdnh%2FLandscope_conslands%2FMapServer&transparent=true
 
 - virginia parcels
--- http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgismaps.vita.virginia.gov%2Farcgis%2Frest%2Fservices%2FVA_Base_layers%2FVA_Parcels%2FMapServer&transparent=true
+-- http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgismaps.vita.virginia.gov%2Farcgis%2Frest%2Fservices%2FVA_Base_layers%2FVA_Parcels%2FMapServer&transparent=true  
