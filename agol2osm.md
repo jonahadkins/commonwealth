@@ -16,3 +16,5 @@ in the iD editor use these links as custom backgrounds for tracing boundaries/fe
 - virginia buildings  
 -- http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=https%3A%2F%2Fgismaps.vita.virginia.gov%2Farcgis%2Frest%2Fservices%2FVA_Base_layers%2FVA_Building_Footprints%2FMapServer&transparent=true&layers=show%3A20  
 
+- hampton 2018 aerial
+-- https://ags-proxy.openstreetmap.us/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fwebgis.hampton.gov%2FArcGIS%2Frest%2Fservices%2FAerial_2018%2FMapServer&transparent=true&layers=show%3A1
