@@ -2,8 +2,10 @@
 
 | Organization | Server |
 | --- | --- |
+| Dept. of Conservation & Recreation | [http://vanhde.org/arcgis/rest/services/VA_Public](http://vanhde.org/arcgis/rest/services/VA_Public) |
 | VGIN | [http://gismaps.vita.virginia.gov/arcgis/rest/services](http://gismaps.vita.virginia.gov/arcgis/rest/services) |
 | VIMS Coastal Resources | [http://cmap2.vims.edu/arcgis/rest/services/](http://cmap2.vims.edu/arcgis/rest/services/) |
+
 
 <hr>
 
