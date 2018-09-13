@@ -14,6 +14,11 @@
 | County | Server |
 | --- | --- |
 | Accomack | [http://gis.worldviewsolutions.com/arcgis/rest/services/accomack/public/MapServer](http://gis.worldviewsolutions.com/arcgis/rest/services/accomack/public/MapServer) |
+| Alexandria (City) | [https://maps.alexandriava.gov/arcgis/rest/services/](https://maps.alexandriava.gov/arcgis/rest/services/) |
+| Arlington | [https://gis.arlingtonva.us:6443/arcgis/rest/services](https://gis.arlingtonva.us:6443/arcgis/rest/services) |
+| Augusta County | [http://64.203.169.132/arcgis/rest/services](http://64.203.169.132/arcgis/rest/services) |
+| Bedford County | [https://webgis.bedfordcountyva.gov/arcgis/rest/services](https://webgis.bedfordcountyva.gov/arcgis/rest/services)|
+| Cambell County | [https://gis.co.campbell.va.us/arcgis/rest/services](https://gis.co.campbell.va.us/arcgis/rest/services) |
 | Chespeake | [http://gisdata.cityofchesapeake.net/public/rest/services](http://gisdata.cityofchesapeake.net/public/rest/services) |
 | Chincoteague | [http://gis.worldviewsolutions.com/arcgis/rest/services/accomack/Chincoteague/MapServer](http://gis.worldviewsolutions.com/arcgis/rest/services/accomack/Chincoteague/MapServer) |
 | Franklin City | [http://gis.worldviewsolutions.com/arcgis/rest/services/Franklin/Public/MapServer](http://gis.worldviewsolutions.com/arcgis/rest/services/Franklin/Public/MapServer) |
