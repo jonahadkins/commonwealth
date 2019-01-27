@@ -40,7 +40,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 ## Other Repositories  
 * [Virginia Transitland Feed Registry Members](https://transit.land/feed-registry/?sort_key=country&state=US-VA)  
 * [Hampton Roads Transit Transitland Feed (GTS)](https://transit.land/feed-registry/operators/o-dq9-hamptonroadstransithrt)  
-* [Hampton Roads Transit GTFS (.zip](http://googletf.gohrt.com/google_transit.zip)
+* [Hampton Roads Transit GTFS (.zip)](http://googletf.gohrt.com/google_transit.zip)
 * [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
 ## Professional Organizations  
