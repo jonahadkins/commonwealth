@@ -1,6 +1,6 @@
 # commonwealth
 A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo or contact me jonahadkins@gmail.com  
-##University Repositories  
+## University Repositories  
 **[Virginia Lidar](http://virginialidar.com/)** -- Provided by William & Mary Center for Geospatial Analysis  
 **[USGS Topo Quads](http://www.radford.edu/content/csat/home/gis-center/drg.html)** -- Provided by Radford University GIS Center  
 **[1:24,000 DEM's](http://www.radford.edu/content/csat/home/gis-center/dem.html)** -- Provided by Radford University GIS  
@@ -8,7 +8,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[UVA Geoportal](http://gis.lib.virginia.edu/)** -- UVA Scholar's Lab Geodata Collection  
 
 
-##State Government Repositories  
+## State Government Repositories  
 **[CPB](http://www.chesapeakebay.net/data#downloads)** -- Chesapeake Bay Program  
 **[VDCR](http://www.dcr.virginia.gov/natural_heritage/clinfo.shtml#dev)** -- Virginia Department of Conservation and Recreation's  
 **[VDEM](http://www.vaemergency.gov/em-community/em-resources/gis)** -- Virginia Department of Emergency Management  
@@ -22,7 +22,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 **[GARDEN](http://garden.vgingis.com)** -- University hosted State map services  
 
-##Local Government Repositories  
+## Local Government Repositories  
 **[Albemarle County](http://www.albemarle.org/department.asp?department=gds&relpage=2910)**  
 **[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
 **[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**  
@@ -34,9 +34,10 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[James City County](http://www.jamescitycountyva.gov/assessments/gis-mapping-layers.html)**  
 **[Lynchburg](http://data.cityoflynchburg.opendata.arcgis.com/)**   
 **[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
+**[Waynesboro](https://www.waynesboro.va.us/657/Downloadable-Maps-and-GIS-Data)**
 **[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
 
-##Other Repositories  
+## Other Repositories  
 * [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
 * [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
