@@ -38,13 +38,15 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
 
 ## Other Repositories  
-* [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
+* [Virginia Transitland Feed Registry Members](https://transit.land/feed-registry/?sort_key=country&state=US-VA)  
+* [Hampton Roads Transit Transitland Feed (GTS)](https://transit.land/feed-registry/operators/o-dq9-hamptonroadstransithrt)  
+* [Hampton Roads Transit GTFS (.zip](http://googletf.gohrt.com/google_transit.zip)
 * [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
-##Professional Organizations  
+## Professional Organizations  
 **[VAMLIS](http://www.vamlis.org/)** -- The Virginia Association for Mapping and Land Information Systems is a professional association in Virginia designed to provide educational and networking opportunities for professionals who have an interest in the mapping sciences in Virginia.    
 
-##Meetups  
+## Meetups  
 **Maptime!** -- Maptime is an open learning environment for all levels and degrees of knowledge and offers intentional support for the beginner. Maptime is simultaneously flexible and structured, creating space for workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
 * [Maptime Hampton Roads](http://maptime.github.io/hrva/)  (meets monthly)
 * [Maptime DC](http://maptime.io/dc)  (serving Northern VA, meets monthly)
