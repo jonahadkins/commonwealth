@@ -7,11 +7,15 @@
 | Dept. of Forestry | FS [https://services1.arcgis.com/zdPnl7ASQIo6PX54/ArcGIS/rest/services](https://services1.arcgis.com/zdPnl7ASQIo6PX54/ArcGIS/rest/services) |
 | Department of Game and Inland Fisheries | FS [http://services2.arcgis.com/qsZIVOgnyrsajEtb/ArcGIS/rest/services](http://services2.arcgis.com/qsZIVOgnyrsajEtb/ArcGIS/rest/services) |
 | Dept. of Mines, Minerals and Energy | https://dmme.virginia.gov/gis/rest/services](https://dmme.virginia.gov/gis/rest/services) |
+| VCU GARDEN (Geospatial Archive Resource and Data Exchange Network) | [http://garden.vcu.edu/arcgis/rest/](http://garden.vcu.edu/arcgis/rest/) |
+| VT GARDEN - Geospatial Archive Resource and Data Exchange Network | [http://garden.gis.vt.edu/arcgis/rest/](http://garden.gis.vt.edu/arcgis/rest/) |
+| WM GARDEN - Geospatial Archive Resource and Data Exchange Network | [http://garden.wm.edu/arcgis/rest/](http://garden.wm.edu/arcgis/rest/) |
 | Metro Washington Council of Governments | [https://gis.mwcog.org/wa/rest/services](https://gis.mwcog.org/wa/rest/services) |
 | VDEM | [https://arcgis.vdem.virginia.gov/ArcGIS/rest/services](https://arcgis.vdem.virginia.gov/ArcGIS/rest/services) |
 | VDOT | FS [https://services.arcgis.com/p5v98VHDX9Atv3l7/ArcGIS/rest/services](https://services.arcgis.com/p5v98VHDX9Atv3l7/ArcGIS/rest/services) |
 | VEDP | [https://maps.vedp.org/arcgis/rest/services](https://maps.vedp.org/arcgis/rest/services) |
-| VGIN | [http://gismaps.vita.virginia.gov/arcgis/rest/services](http://gismaps.vita.virginia.gov/arcgis/rest/services) |
+| VGIN | [https://gismaps.vita.virginia.gov/arcgis/rest/services](https://gismaps.vita.virginia.gov/arcgis/rest/services) |
+| VGIN/VITA | [https://services.arcgis.com/WNJF1HhUVAm3jccO/ArcGIS/rest/services](https://services.arcgis.com/WNJF1HhUVAm3jccO/ArcGIS/rest/services)] |
 | VIMS Coastal Resources | [http://cmap2.vims.edu/arcgis/rest/services/](http://cmap2.vims.edu/arcgis/rest/services/) |
 
 
@@ -25,8 +29,10 @@
 | Albermarle | Down |
 | Accomack | [http://gis.worldviewsolutions.com/arcgis/rest/services/accomack/public/MapServer](http://gis.worldviewsolutions.com/arcgis/rest/services/accomack/public/MapServer) |
 | Alexandria (City) | [https://maps.alexandriava.gov/arcgis/rest/services/](https://maps.alexandriava.gov/arcgis/rest/services/) |
+| Alexandria (City) Alt. | [https://services2.arcgis.com/ChYV69FhfjwkvRmy/ArcGIS/rest/services](https://services2.arcgis.com/ChYV69FhfjwkvRmy/ArcGIS/rest/services) |
 | Allegheny County | [http://gis.worldviewsolutions.com/arcgis/rest/services/alleghany/Public/MapServer](http://gis.worldviewsolutions.com/arcgis/rest/services/alleghany/Public/MapServer) |
 | Arlington | [https://gis.arlingtonva.us:6443/arcgis/rest/services](https://gis.arlingtonva.us:6443/arcgis/rest/services) |
+| Arlington County Alt. | [https://gis2.arlingtonva.us/arlgis/rest/services](https://gis2.arlingtonva.us/arlgis/rest/services) |
 | Augusta County | [http://64.203.169.132/arcgis/rest/services](http://64.203.169.132/arcgis/rest/services) |
 | Bath County | Only Feature Server |
 | Bedford County | [https://webgis.bedfordcountyva.gov/arcgis/rest/services](https://webgis.bedfordcountyva.gov/arcgis/rest/services)|
