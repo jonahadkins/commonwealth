@@ -42,7 +42,7 @@
 | Dinwiddie | [http://gis.worldviewsolutions.com/arcgis/rest/services/dinwiddie](http://gis.worldviewsolutions.com/arcgis/rest/services/dinwiddie) |
 | Fairfax City | [http://cofgis.fairfaxva.gov/arcgis/rest/services](http://cofgis.fairfaxva.gov/arcgis/rest/services) |
 | Fairfax County | [https://www.fairfaxcounty.gov/mercator/rest/services](https://www.fairfaxcounty.gov/mercator/rest/services) |
-| Falls Chruch | FS [http://services1.arcgis.com/2hmXRAz4ofcdQP6p/ArcGIS/rest/services](http://services1.arcgis.com/2hmXRAz4ofcdQP6p/ArcGIS/rest/services) |
+| Falls Church | FS [http://services1.arcgis.com/2hmXRAz4ofcdQP6p/ArcGIS/rest/services](http://services1.arcgis.com/2hmXRAz4ofcdQP6p/ArcGIS/rest/services) |
 | Faquier County | [https://gis-agol.fauquiercounty.gov/arcgis/rest/services](https://gis-agol.fauquiercounty.gov/arcgis/rest/services) |
 | Franklin City | [http://gis.worldviewsolutions.com/arcgis/rest/services/Franklin/Public/MapServer](http://gis.worldviewsolutions.com/arcgis/rest/services/Franklin/Public/MapServer) |
 | Franklin County | [https://www.webgis.net/arcgis/rest/services/VA/FranklinCo_WebGIS/MapServer](https://www.webgis.net/arcgis/rest/services/VA/FranklinCo_WebGIS/MapServer) |
