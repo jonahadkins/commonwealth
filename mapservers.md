@@ -3,6 +3,7 @@
 | Organization | Server |
 | --- | --- |
 | Dept. of Conservation & Recreation | [http://vanhde.org/arcgis/rest/services/VA_Public](http://vanhde.org/arcgis/rest/services/VA_Public) |
+| Dept. of Environmental Quality | [https://apps.deq.virginia.gov/arcgis/rest/services](https://apps.deq.virginia.gov/arcgis/rest/services) |
 | Dept. of Forestry | FS [https://services1.arcgis.com/zdPnl7ASQIo6PX54/ArcGIS/rest/services](https://services1.arcgis.com/zdPnl7ASQIo6PX54/ArcGIS/rest/services) |
 | Department of Game and Inland Fisheries | FS [http://services2.arcgis.com/qsZIVOgnyrsajEtb/ArcGIS/rest/services](http://services2.arcgis.com/qsZIVOgnyrsajEtb/ArcGIS/rest/services) |
 | Dept. of Mines, Minerals and Energy | https://dmme.virginia.gov/gis/rest/services](https://dmme.virginia.gov/gis/rest/services) |
