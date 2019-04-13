@@ -13,7 +13,13 @@
 | VGIN | [http://gismaps.vita.virginia.gov/arcgis/rest/services](http://gismaps.vita.virginia.gov/arcgis/rest/services) |
 | VIMS Coastal Resources | [http://cmap2.vims.edu/arcgis/rest/services/](http://cmap2.vims.edu/arcgis/rest/services/) |
 
+<hr>
 
+### Regional Map Servers  
+
+| Organization | Server |
+| --- | --- |
+| Hampton Roads Planning District Commission | [https://geo.hrsd.com/hrgeo/rest/services/regionalgis](https://geo.hrsd.com/hrgeo/rest/services/regionalgis) |
 
 <hr>
 
