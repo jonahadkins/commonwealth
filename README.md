@@ -8,7 +8,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[UVA Geoportal](http://gis.lib.virginia.edu/)** -- UVA Scholar's Lab Geodata Collection  
 
 
-##State Government Repositories  
+## State Government Repositories  
 **[CPB](http://www.chesapeakebay.net/data#downloads)** -- Chesapeake Bay Program  
 **[VDCR](http://www.dcr.virginia.gov/natural_heritage/clinfo.shtml#dev)** -- Virginia Department of Conservation and Recreation's  
 **[VDEM](http://www.vaemergency.gov/em-community/em-resources/gis)** -- Virginia Department of Emergency Management  
@@ -22,7 +22,10 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 **[GARDEN](http://garden.vgingis.com)** -- University hosted State map services  
 
-##Local Government Repositories  
+## Regional Government Repositories  
+**[Hampton Roads Planning District Commision (HRPDC)](http://www.hrgeo.org)**  
+
+## Local Government Repositories  
 **[Albemarle County](http://www.albemarle.org/department.asp?department=gds&relpage=2910)**  
 **[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
 **[Arlington](http://gisdata.arlgis.opendata.arcgis.com/)**  
@@ -36,14 +39,14 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
 **[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
 
-##Other Repositories  
+## Other Repositories  
 * [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
 * [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
-##Professional Organizations  
+## Professional Organizations  
 **[VAMLIS](http://www.vamlis.org/)** -- The Virginia Association for Mapping and Land Information Systems is a professional association in Virginia designed to provide educational and networking opportunities for professionals who have an interest in the mapping sciences in Virginia.    
 
-##Meetups  
+## Meetups  
 **Maptime!** -- Maptime is an open learning environment for all levels and degrees of knowledge and offers intentional support for the beginner. Maptime is simultaneously flexible and structured, creating space for workshops, ongoing projects with a shared goal, and independent/collaborative work time. Beginners most welcome!
 * [Maptime Hampton Roads](http://maptime.github.io/hrva/)  (meets monthly)
 * [Maptime DC](http://maptime.io/dc)  (serving Northern VA, meets monthly)
