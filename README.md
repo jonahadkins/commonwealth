@@ -22,6 +22,9 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[VIMS](http://ccrm.vims.edu/gis_data_maps/data/index.html)** -- Virginia Institute of Marine Science  
 **[GARDEN](http://garden.vgingis.com)** -- University hosted State map services  
 
+## Regional Government Repositories  
+**[Hampton Roads Planning District Commision (HRPDC)](http://www.hrgeo.org)**  
+
 ## Local Government Repositories  
 **[Albemarle County](http://www.albemarle.org/department.asp?department=gds&relpage=2910)**  
 **[Alexandria]( http://data.alexgis.opendata.arcgis.com/)**  
@@ -41,6 +44,7 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 * [Virginia Transitland Feed Registry Members](https://transit.land/feed-registry/?sort_key=country&state=US-VA)  
 * [Hampton Roads Transit Transitland Feed (GTS)](https://transit.land/feed-registry/operators/o-dq9-hamptonroadstransithrt)  
 * [Hampton Roads Transit GTFS (.zip)](http://googletf.gohrt.com/google_transit.zip)
+* [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
 * [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
 ## Professional Organizations  
