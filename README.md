@@ -1,6 +1,6 @@
 # commonwealth
 A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo or contact me jonahadkins@gmail.com  
-##University Repositories  
+## University Repositories  
 **[Virginia Lidar](http://virginialidar.com/)** -- Provided by William & Mary Center for Geospatial Analysis  
 **[USGS Topo Quads](http://www.radford.edu/content/csat/home/gis-center/drg.html)** -- Provided by Radford University GIS Center  
 **[1:24,000 DEM's](http://www.radford.edu/content/csat/home/gis-center/dem.html)** -- Provided by Radford University GIS  
@@ -37,9 +37,13 @@ A Repo Of Geo-Related Things In Virginia - Have something to add? Fork this repo
 **[James City County](http://www.jamescitycountyva.gov/assessments/gis-mapping-layers.html)**  
 **[Lynchburg](http://data.cityoflynchburg.opendata.arcgis.com/)**   
 **[Virginia Beach](http://oldbeta.vbgov.opendata.arcgis.com/)**    
+**[Waynesboro](https://www.waynesboro.va.us/657/Downloadable-Maps-and-GIS-Data)**
 **[Williamsburg](http://www.williamsburgva.gov/Index.aspx?page=793)**    
 
 ## Other Repositories  
+* [Virginia Transitland Feed Registry Members](https://transit.land/feed-registry/?sort_key=country&state=US-VA)  
+* [Hampton Roads Transit Transitland Feed (GTS)](https://transit.land/feed-registry/operators/o-dq9-hamptonroadstransithrt)  
+* [Hampton Roads Transit GTFS (.zip)](http://googletf.gohrt.com/google_transit.zip)
 * [Hampton Roads Transit GTFS](http://www.gtfs-data-exchange.com/agency/hampton-roads-transit-hrt/)
 * [Open Virginia GIS](https://github.com/jalbertbowden/open-virginia-gis)  
 
